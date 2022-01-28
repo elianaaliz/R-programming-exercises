@@ -53,3 +53,9 @@ cacheSolve <- function(x, ...) {
   
   ivx #return inv
 }
+
+##### <--- For example ---> ####
+
+#my_matrix <- matrix(c(4, 7, 3, 6), ncol = 2)
+#ret <- makeCacheMatrix(my_matrix)
+#cacheSolve(ret)
